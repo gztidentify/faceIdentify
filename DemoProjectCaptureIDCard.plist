@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://123.57.221.9:8443/faceIdentify/DemoProjectCaptureIDCard.ipa</string>
+					<string>http://123.57.221.9:8080/faceIdentify/DemoProjectCaptureIDCard.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://123.57.221.9:8443/faceIdentify/1.png</string>
+					<string>http://123.57.221.9:8080/faceIdentify/1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://123.57.221.9:8443/faceIdentify/2.png</string>
+					<string>http://123.57.221.9:8080/faceIdentify/2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
